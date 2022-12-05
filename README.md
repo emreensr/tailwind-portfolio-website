@@ -4,4 +4,4 @@
 
 You can see the project at the link below.
 
-https://tailwindcss-responsive-website.netlify.app
+https://tailwind-portfolio-responsive.netlify.app/
